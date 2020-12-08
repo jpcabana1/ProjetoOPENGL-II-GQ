@@ -1,0 +1,36 @@
+===== Log started at 2020-12-08, 13:48:37. =====
+
+13:48:37  Main window is created.
+13:48:37  Display Resolution: 1920x1080
+13:48:37  Creating a dummy window to use WGL_ARB_pixel_format extension.
+13:48:37  WGL_ARB_pixel_format and WGL_ARB_multisample are supported.
+13:48:37  Use wglChoosePixelFormatARB() to find a pixel format with MSAA.
+13:48:37  MSAA mode: 8x
+13:48:37  Pixel Format: 52
+13:48:37  A dummy window is destroyed.
+13:48:37  Created OpenGL rendering context.
+13:48:37  Created a rendering thread for OpenGL.
+13:48:37  Changed OpenGL rendering window size: 1920x1080.
+13:48:37  OpenGL child window is created.
+13:48:37  Initialized OpenGL states.
+13:48:37  GLSL shader objects are initialized.
+13:48:37  Initialized OpenGL window size.
+13:48:37  Entering OpenGL rendering thread...
+13:48:37  OpenGL form dialog is created.
+13:48:37  Form dialog dimension: 1076 x 268
+13:48:37  Changed OpenGL rendering window size: 1076x538.
+13:48:37  GL window dimension: 1076 x 538
+13:48:37  Changed OpenGL rendering window size: 1078x546.
+13:48:38  Changed OpenGL rendering window size: 1076x538.
+13:52:59  Changed OpenGL rendering window size: 1078x546.
+13:56:58  
+13:56:58  Closing the application...
+13:56:59  Closed OpenGL rendering context (RC).
+13:56:59  Exit OpenGL rendering thread.
+13:56:59  OpenGL window is destroyed.
+13:56:59  Form dialog is destroyed.
+13:56:59  Main windows is destroyed.
+13:56:59  Application is terminated.
+
+
+===== END OF LOG =====

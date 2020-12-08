@@ -1,0 +1,8 @@
+﻿  ControllerFormGL.cpp
+  ControllerGL.cpp
+  Matrices.cpp
+  ModelGL.cpp
+  ViewFormGL.cpp
+  main.cpp
+  Generating Code...
+  matrixModelView.vcxproj -> C:\Users\jpcab\Desktop\matrixModelView\matrixModelView\src\..\bin\matrixModelView.exe
